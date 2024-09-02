@@ -3,6 +3,16 @@
 </p>
 <hr>
 
-Kiseki is a **free and open source** web app that allows for a deeper integration with the Aya game. Some features of Kiseki include a basic economic system, centralized user moderation, live web chat, and more.
+Kiseki is an organization that offers free and open source software which integrates with the Aya game, a heavily customized version of legacy Roblox. For more information on legacy Roblox, please see [Legacy Roblox Reverse Engineers](https://github.com/lrre-foss), an organization that provides thorough documentation and tools for reverse engineering legacy Roblox.
 
-If you would like to run Aya without the need for a website, you may use [Aya.MasterServer](https://github.com/kiseki-lol/aya-master-server).
+Kiseki offers the following projects that can be used for integrating with Aya:
+
+- **[governor](https://github.com/kiseki-lol/governor)**: Implements the Aya governor protocol, allowing for independent server discovery while retaining responsible user safety measures
+- **[web](https://github.com/kiseki-lol/web)**: A feature-rich Laravel web app that allows for dedicated Aya servers, granular user moderation, complex economic features, real-time chat, and more
+  - **[arbiter](https://github.com/kiseki-lol/arbiter)**: On-demand provisioning of Aya servers for the Kiseki website
+  - **[launcher](https://github.com/kiseki-lol/launcher)**: Connects users to Kiseki-hosted Aya game sessions from the Kiseki website
+  - **[periwinkle](https://github.com/kiseki-lol/periwinkle)**: Manages and integrates a Discord chat server with the Kiseki website
+
+All of these projects are licensed under the GPLv3 license (excluding backend software, which are licensed under the AGPLv3 license). If you would like to use any of these projects, you may do so under the terms of the license.
+
+For more information on how to use any of these projects, please refer to their respective wikis.
