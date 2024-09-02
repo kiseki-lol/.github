@@ -13,6 +13,6 @@ Kiseki offers the following projects that can be used for integrating with Aya:
   - **[launcher](https://github.com/kiseki-lol/launcher)**: Connects users to Kiseki-hosted Aya game sessions from the Kiseki website
   - **[periwinkle](https://github.com/kiseki-lol/periwinkle)**: Manages and integrates a Discord chat server with the Kiseki website
 
-All of these projects are licensed under the GPLv3 license (excluding backend software, which are licensed under the AGPLv3 license). If you would like to use any of these projects, you may do so under the terms of the license.
+All of these projects are licensed under the GPLv3 license (excluding backend software, which are instead licensed under the AGPLv3 license). If you would like to use any of these projects, you may do so under the terms of their respective license. A central tenant of Kiseki is open source software, so feel free to create a pull request or report a bug report -- we greatly value contributions for any of our projects!
 
 For more information on how to use any of these projects, please refer to their respective wikis.
