@@ -1,7 +1,5 @@
-
 <p align="center">
-<img src="https://github.com/kiseki-lol/.github/raw/trunk/profile/logo.png" width="60%"><br>
-<br><br>
+<img src="https://github.com/kiseki-lol/.github/raw/trunk/profile/logo.png" width="40%">
 </p>
 <hr>
 
